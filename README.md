@@ -1,2 +1,2 @@
 # poc-python
-Dummy code for playing with pyhton
+Dummy code for playing with python
